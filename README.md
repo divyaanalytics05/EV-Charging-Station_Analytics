@@ -35,3 +35,7 @@ and payment mode.
 ## Project Objective
 To analyze EV charging data and present useful insights
 through an interactive Excel dashboard.
+
+## Dashboard Preview
+
+![EV Charging Station Analytics Dashboard](Screenshot%202026-10-10%20140705.png)
